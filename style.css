@@ -1,0 +1,33 @@
+body {background-color: rgb(227, 235, 241);}
+
+.sub-title { background-color: lightgreen;width: 100%; border-color: black;
+    border: 2px solid;margin-bottom: 0px;
+text-align: center;}
+
+.navbar-brand{ font-family: 'Times New Roman', Times, serif ; 
+font-weight: 1000;
+font-size:200%;}
+ h1 {
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5%;
+}
+
+ .custom-container {
+    background-color: rgba(82, 81, 81, 0.61);
+    border-color: black;
+    border: 2px solid;
+    width: 98%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+ }
+ .custom-header {
+    display: flex;
+    justify-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+ }
